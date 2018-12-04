@@ -8,8 +8,8 @@ dl, dt, dd, ul, li, form, table, tr, th, td {
 	border: 0;
 }
 body {
-	font-size: 100%;
-	color: #555555;
+	font-size: 80%;
+	color: #000;
 }
 #container {
 	width: 980px;
